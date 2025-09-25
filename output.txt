@@ -1,0 +1,7 @@
+Invoice_ID → the invoice ID of the customer
+Vendor_Name → the name of the vendor
+Amount → the amount of money that the user has spent on the account
+Payment_Date → the date of the payment
+Customer_ID → the customer ID of the product
+Shipping_City → the shipping city of the country in which the item is shipped
+Order_Status → that the order status is being displayed
