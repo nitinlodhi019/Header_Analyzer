@@ -2,6 +2,11 @@
 
 This script uses a pre-trained open-source language model to automatically generate short, descriptive explanations for column headers found in a CSV file. It serves as a simple tool for quick data documentation and to gain an initial understanding of a dataset's structure.
 
+## Image
+
+<img width="1857" height="933" alt="Screenshot 2025-09-25 144503" src="https://github.com/user-attachments/assets/edb53bd9-d7ed-41b2-a122-5460424de3ba" />
+
+
 ## Model Selection
 
 For this task, I chose the gpt2 model from Hugging Face. The primary requirement is to generate descriptive text, and GPT-2 (Generative Pre-trained Transformer 2) is designed specifically for this purpose. It is a well-established and relatively small model (approx. 500MB), which makes it feasible to download and run on a standard local machine without specialized hardware, aligning perfectly with the "offline / open-source" guideline. Through careful prompt engineering and output processing, it can deliver concise and useful results for this specific assignment.
