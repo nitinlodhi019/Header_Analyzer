@@ -14,8 +14,7 @@ For this task, I chose the gpt2 model from Hugging Face. The primary requirement
 ```bash
 # Create and activate a virtual environment
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
+source venv/bin/activate 
 # Install libraries
 pip install transformers torch
 ```
